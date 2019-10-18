@@ -1,3 +1,5 @@
+import random
+
 def populate_array_input():
     """ Gets user input for each element in the array.
 
